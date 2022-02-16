@@ -1,3 +1,3 @@
 function changecolor(){
-   document.getElementById("hellowrld").style.color="deeppink";
+document.getElementById("hellowrld").style.color="deeppink";
 }
